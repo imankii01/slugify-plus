@@ -1,8 +1,6 @@
 # 🏆 Slugify-Plus - The Ultimate Slug Generator for Node.js 🚀
 
 ![npm](https://img.shields.io/npm/v/slugify-plus?color=blue&label=Slugify-Plus)
-![license](https://img.shields.io/npm/l/slugify-plus)
-![build](https://img.shields.io/github/actions/workflow/status/imankii01/slugify-plus/ci.yml)
 ![contributors](https://img.shields.io/github/contributors/imankii01/slugify-plus)
 
 **Slugify-Plus** is an advanced, customizable, and developer-friendly slug generator for Node.js and JavaScript applications.  
